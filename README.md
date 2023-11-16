@@ -45,6 +45,7 @@ Ahora hay un aumento en la adopción de Arm. Es la base de la serie M de procesa
 * Ahora directora ejecutiva, Renee Haas fue presidenta de productos IP, un grupo en aquel momento, liderando la diversificación en los      mercados emergentes, incluida la IA, PC y teléfono, automoción, centro de datos e IoT.
 * Nvidia acaba de asociarse con Arm en su nuevo Grace Hopper Superchip, que está diseñado para combinar las GPU de Nvidia más las CPU de 
   Arm.
+  
 * El propietario de Arm, SoftBank, necesitaba efectivo, por lo que vendio Arm a Nvidia por 40 dólares mil millones. Dieciocho meses 
   después, el trato se vino abajo, bloqueado por los reguladores y un consorcio de los mayores de Arm clientes que también compiten con 
   Nvidia.
@@ -56,4 +57,39 @@ Ahora hay un aumento en la adopción de Arm. Es la base de la serie M de procesa
 * Arm domina en los procesadores de teléfonos inteligentes.
 * La arquitectura gratuita de código abierto ha experimentado un reciente crecimiento en popularidad, con el respaldo de algunos de los 
   grandes clientes de Arm como Google, Samsung y Qualcomm.
+
+* El mayor diferenciador de arm es su menor consumo de energía, algo que está ayudando a Arm a entrar en la computadora portátil
+  mercado. Apple, por ejemplo, dice que está basado en Arm. Los chips M3 dan al MacBook Pro más nuevo hasta 22 horas de duración de la 
+  batería.
+* El alejamiento de Apple de Intel fue una gran prueba punto para la capacidad de Arm para diversificarse más allá teléfonos 
+  inteligentes.
+* En septiembre, Apple amplió su acuerdo con Arm hasta al menos 2040.
+* Qualcomm es otro cliente importante que fabrica Procesadores de PC que utilizan Arm. Aunque ahora Arm está demandando a Qualcomm por 
+  el derecho a fabricar ciertos chips con su tecnología.
+* El problema comenzó después de que Qualcomm adquiriera la empresa Nuvia de CPU en 2021, y con ella, Nuvia's Arm licencia.
+* El caso llegará a juicio en 2024, y Qualcomm sigue comprometido con la introducción de PC basadas en Arm chips en portátiles con 
+  Windows el próximo año.
+* Del lado del servidor, Amazon Web Services es el gran jugador que fabrica chips basados ​​​​en Arm para el centro de datos, ese fue el 
+  lanzamiento de Graviton.
+* Arm también está experimentando un crecimiento debido a una tendencia de no-chip. Empresas como Amazon y Apple recurren a Arm para
+  diseñar su propio silicio personalizado, permitiéndoles depender menos y gastar menos en gigantes históricos de chips.
+* Arm esta empezando a moverse en términos de permitir el diseño de múltiples componentes que se conectan entre sí, lo llamado 
+  subsistemas informáticos.
+
+* Más del 90% de la creación de chips del mundo se fabrican en Asia
+* Los importantes ingresos de Arm provienen de China.
+* En 2018, SoftBank separó el negocio de Arm en China y lo convirtió en una entidad independiente, Arm China, de propiedad mayoritaria
+  por un grupo de inversores chinos.
+* Haas dice que Arm ha visto un impacto mínimo de la exportación controles hasta el momento.
+* China es un buen mercado para nosotros, alrededor del 20% de nuestro negocio ha cambiado con los años, Actualmente se enfocan 
+  principalmente en centros de datos y automoción.
+* Varios ex empleados de Arm China están iniciando una nueva empresa de diseño de chips internos en China con el respaldo del gobierno 
+  de Shenzhen.
+* La arquitectura rival RISC-V a ganando terreno en China como alternativa a los EE.UU.
+
+* El líder mundial de chips, TSMC, culpa a la escasez de trabajadores cualificados por retrasos en sus 40.000 millones de dólares
+  fabuloso en construcción en Arizona.
+* Arm está ayudando a lanzar una Alianza de educación semiconductora para crear nuevos caminos para futuros grupos de talentos, en medio 
+  de las crecientes necesidades de chips de IA generativa y la creciente lista de empresas como Nvidia trabajando en procesadores basados ​​
+  en Arm.
 
