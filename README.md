@@ -46,6 +46,8 @@ Ahora hay un aumento en la adopción de Arm. Es la base de la serie M de procesa
 * Nvidia acaba de asociarse con Arm en su nuevo Grace Hopper Superchip, que está diseñado para combinar las GPU de Nvidia más las CPU de 
   Arm.
 
+Se narra en un principio un poco de la historia y los inicios de los procesadores ARM, en donde y por quienes se crearon, ademas de como se expandio en distintos lugares como Francia, EEUU, India, entre otros. Su evoluciones en los años y su gran asenso en los 2000.
+
 ## 
 
   
@@ -60,6 +62,8 @@ Ahora hay un aumento en la adopción de Arm. Es la base de la serie M de procesa
 * Arm domina en los procesadores de teléfonos inteligentes.
 * La arquitectura gratuita de código abierto ha experimentado un reciente crecimiento en popularidad, con el respaldo de algunos de los 
   grandes clientes de Arm como Google, Samsung y Qualcomm.
+
+Como cualquier producto o empresa, estas sufren de falta de recursos financieros, por lo que se es necesario buscar maneras de financiamiento, sin embargo también se puede vende cierto porcentaje de la empresa para poder subsitir y poder estar de pie, por mientras que se recupera.
 
 ##
 
@@ -82,6 +86,8 @@ Ahora hay un aumento en la adopción de Arm. Es la base de la serie M de procesa
 * Arm esta empezando a moverse en términos de permitir el diseño de múltiples componentes que se conectan entre sí, lo llamado 
   subsistemas informáticos.
 
+Existen empresas que desean aprovecharse de las bases de la otra, y esto fue presentado también por ARM, ya que Qualcomm utilizo sus báses para poder crear algo para si mismo, empleando como escusa un contrato de una empresa que Qualcomm compro.
+
 ##
 
   
@@ -96,6 +102,7 @@ Ahora hay un aumento en la adopción de Arm. Es la base de la serie M de procesa
   de Shenzhen.
 * La arquitectura rival RISC-V a ganando terreno en China como alternativa a los EE.UU.
 
+La base fundada en Asia producian el 90% de chips de la empresa, sin embargo al presentar problemas con los empleados, y los recortes que se presentaban de personal, entre otros problemas, los asiaticos crearon su empresa similamdo el funcionamiento de ARM.
 
 ##
 
