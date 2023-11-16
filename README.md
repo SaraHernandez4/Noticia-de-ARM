@@ -113,3 +113,9 @@ La base fundada en Asia producian el 90% de chips de la empresa, sin embargo al 
   de las crecientes necesidades de chips de IA generativa y la creciente lista de empresas como Nvidia trabajando en procesadores 
   basados ​​en Arm.
 
+
+## Conclusiones Intermedias y Conclusión personal
+
+Con el video proporcionado se puede concluir que los nuevos procesadores ARM tendran un gran impacto en un futuro muy cercano del que ya tienen, ya que con una gran trayectoria que llevan a su paso pueden cambiar la trayectoria que se tiene con los procesadores hasta el momento.
+
+
