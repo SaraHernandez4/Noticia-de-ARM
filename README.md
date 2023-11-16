@@ -26,4 +26,20 @@ Ahora hay un aumento en la adopción de Arm. Es la base de la serie M de procesa
 
 ## Desarrollo
 
+### Puntos relevantes
+
+* Arm fue fundada en 1990 por 12 diseñadores de chips que trabajaban de un granero de pavos en Cambridge, Reino Unido.
+* Originalmente era una empresa conjunta entre Apple y Acorn.
+* Apple lanzó su primer dispositivo portátil Newton en el procesador Arm610 en 1993.
+* Por lo anterior Armm recibió regalías por unidad y fueron capaz de tomar ese dinero, reinvertirlo, contratar más personal y crecer y 
+  expandirse.
+* Arm llegó a un acuerdo con Texas Instruments, poniendo sus procesadores en los primeros teléfonos móviles Nokia, comenzando el ascenso 
+  de Arm para convertirse en el dominante arquitectura en casi todos los teléfonos inteligentes actuales.
+* Arm salió a bolsa por primera vez en 1998.
+  Allí estuvo el arquitecto jefe Richard Grisenthwaite.
+* Arm creció rápidamente en la década de 2000, con los primeros teléfonos con pantalla táctil introducidos en 2007, y el crecimiento de 
+  los dispositivos domésticos conectados en la década de 2010.
+* Arm tiene ahora unos 6.500 empleados en todo el mundo, aproximadamente una sexta parte de nuestra población se encuentra en los EE. UU.
+  y mucha ingeniería de muy alta calidad, tanto arquitectura y microarquitectura, tanto de EE.UU., Reino Unido y India, en Francia, etc.
+* En 2016, Arm se volvió privada cuando fue comprada por SoftBank de Japón por 32.000 millones de dólares.
 
