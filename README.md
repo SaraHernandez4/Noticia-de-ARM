@@ -46,6 +46,8 @@ Ahora hay un aumento en la adopción de Arm. Es la base de la serie M de procesa
 * Nvidia acaba de asociarse con Arm en su nuevo Grace Hopper Superchip, que está diseñado para combinar las GPU de Nvidia más las CPU de 
   Arm.
 
+## 
+
   
 * El propietario de Arm, SoftBank, necesitaba efectivo, por lo que vendio Arm a Nvidia por 40 dólares mil millones. Dieciocho meses 
   después, el trato se vino abajo, bloqueado por los reguladores y un consorcio de los mayores de Arm clientes que también compiten con 
@@ -59,7 +61,9 @@ Ahora hay un aumento en la adopción de Arm. Es la base de la serie M de procesa
 * La arquitectura gratuita de código abierto ha experimentado un reciente crecimiento en popularidad, con el respaldo de algunos de los 
   grandes clientes de Arm como Google, Samsung y Qualcomm.
 
+##
 
+  
 * El mayor diferenciador de arm es su menor consumo de energía, algo que está ayudando a Arm a entrar en la computadora portátil
   mercado. Apple, por ejemplo, dice que está basado en Arm. Los chips M3 dan al MacBook Pro más nuevo hasta 22 horas de duración de la 
   batería.
@@ -78,7 +82,9 @@ Ahora hay un aumento en la adopción de Arm. Es la base de la serie M de procesa
 * Arm esta empezando a moverse en términos de permitir el diseño de múltiples componentes que se conectan entre sí, lo llamado 
   subsistemas informáticos.
 
+##
 
+  
 * Más del 90% de la creación de chips del mundo se fabrican en Asia
 * Los importantes ingresos de Arm provienen de China.
 * En 2018, SoftBank separó el negocio de Arm en China y lo convirtió en una entidad independiente, Arm China, de propiedad mayoritaria
@@ -91,6 +97,9 @@ Ahora hay un aumento en la adopción de Arm. Es la base de la serie M de procesa
 * La arquitectura rival RISC-V a ganando terreno en China como alternativa a los EE.UU.
 
 
+##
+
+  
 * El líder mundial de chips, TSMC, culpa a la escasez de trabajadores cualificados por retrasos en sus 40.000 millones de dólares
   fabuloso en construcción en Arizona.
 * Arm está ayudando a lanzar una Alianza de educación semiconductora para crear nuevos caminos para futuros grupos de talentos, en medio 
