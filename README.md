@@ -42,4 +42,18 @@ Ahora hay un aumento en la adopción de Arm. Es la base de la serie M de procesa
 * Arm tiene ahora unos 6.500 empleados en todo el mundo, aproximadamente una sexta parte de nuestra población se encuentra en los EE. UU.
   y mucha ingeniería de muy alta calidad, tanto arquitectura y microarquitectura, tanto de EE.UU., Reino Unido y India, en Francia, etc.
 * En 2016, Arm se volvió privada cuando fue comprada por SoftBank de Japón por 32.000 millones de dólares.
+* Ahora directora ejecutiva, Renee Haas fue presidenta de productos IP, un grupo en aquel momento, liderando la diversificación en los      mercados emergentes, incluida la IA, PC y teléfono, automoción, centro de datos e IoT.
+* Nvidia acaba de asociarse con Arm en su nuevo Grace Hopper Superchip, que está diseñado para combinar las GPU de Nvidia más las CPU de 
+  Arm.
+* El propietario de Arm, SoftBank, necesitaba efectivo, por lo que vendio Arm a Nvidia por 40 dólares mil millones. Dieciocho meses 
+  después, el trato se vino abajo, bloqueado por los reguladores y un consorcio de los mayores de Arm clientes que también compiten con 
+  Nvidia.
+* SoftBank anunció planes para hacer pública Arm de nuevo y Haas asumió el cargo de director general.
+* Arm hizo su segundo debut público el 14 de septiembre, subiendo casi un 25% ese día.
+* Arm gana dinero de dos maneras diferentes vendiendo diferentes tipos de licencias.
+* El modelo de ingresos es que el 60% de nuestros ingresos provienen de las regalías y creciendo, el 40% proviene del negocio de 
+  licencias.
+* Arm domina en los procesadores de teléfonos inteligentes.
+* La arquitectura gratuita de código abierto ha experimentado un reciente crecimiento en popularidad, con el respaldo de algunos de los 
+  grandes clientes de Arm como Google, Samsung y Qualcomm.
 
